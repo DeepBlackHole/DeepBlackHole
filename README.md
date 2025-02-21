@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m currently working on **InfoSec, Reverse Engineering, Hardware Engineering **
+I’m currently working on **InfoSec, Reverse Engineering, Hardware Engineering**
 
 Now I'm programming on `Python`, `Java`, `JavaScript`, `C#`, `HTML`.
 
