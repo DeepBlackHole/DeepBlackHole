@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 📊 GitHub stats:
+📊 GitHub stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepBlackHole&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepBlackHole&layout=compact&theme=radical)
 
-# Support me:
+Support me:
 •[My patreon](https://www.patreon.com/c/DeepBlackHole/membership)
 
 
