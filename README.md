@@ -9,7 +9,6 @@ Now I'm programming on `Python`, `Java`, `JavaScript`, `C#`, `HTML`.
 
 ## 📊 GitHub stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepBlackHole&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepBlackHole&layout=compact&theme=radical)
 
 ## Support me:
 •[My patreon](https://www.patreon.com/c/DeepBlackHole/membership)
