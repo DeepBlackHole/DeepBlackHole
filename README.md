@@ -2,7 +2,10 @@
 
 I’m currently working on **InfoSec, Reverse Engineering, Hardware Engineering**
 
-Now I'm programming on `Python`, `Java`, `JavaScript`, `C#`, `HTML`.
+Now I'm programming on `Python`, `JavaScript`, `C#`, `HTML`.
+
+I'm learning `C++`, `C` and `lua`.
+Little bit of `game dev things` and `linux & unix`
 
 ## 📫 How to reach me:
 - **Telegram**: [@Blinchik_I_Tochka](https://t.me/@Blinchik_I_Tochka)
