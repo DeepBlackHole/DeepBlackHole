@@ -2,9 +2,9 @@
 
 I’m currently working on **InfoSec, Reverse Engineering, Hardware Engineering**
 
-Now I'm programming on `Python`, `JavaScript`, `C#`, `HTML`.
+Now I'm programming on `Python`, `C#`, `HTML`.
 
-I'm learning `C++`, `C` and `lua`.
+I'm learning `C++`, `C`, `Go` and `lua`.
 Little bit of `game dev things` and `linux & unix`
 
 ## 📫 How to reach me:
