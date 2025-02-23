@@ -12,7 +12,7 @@ Little bit of `game dev things` and `linux & unix`
 - **Email**: gizmo-frown-hertz@duck.com
 
 ## 📊 GitHub stats:
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepBlackHole&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepBlackHole&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## Support me:
