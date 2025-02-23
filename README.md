@@ -11,6 +11,10 @@ Little bit of `game dev things` and `linux & unix`
 - **Telegram**: [@Blinchik_I_Tochka](https://t.me/@Blinchik_I_Tochka)
 - **Email**: gizmo-frown-hertz@duck.com
 
+## 📊 GitHub stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepBlackHole&theme=radical&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=DeepBlackHole&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+
 ## Support me:
 •[My patreon](https://www.patreon.com/c/DeepBlackHole/membership)
 
