@@ -12,7 +12,7 @@ Little bit of `game dev things` and `linux & unix`
 - **Email**: gizmo-frown-hertz@duck.com
 
 ## 📊 GitHub stats:
-[![GitHub Streak](https://github-readme-streak-stats-smoky-two-50.vercel.app?user=DeepBlackHole&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-smoky-two-50.vercel.app?user=DeepBlackHole&theme=nightowl)](https://git.io/streak-stats)
 
 ## Support me:
 •[My patreon](https://www.patreon.com/c/DeepBlackHole/membership)
