@@ -2,8 +2,6 @@
 
 I’m currently working on **InfoSec, Reverse Engineering, Hardware Engineering**
 
-To display your **Tech Stack** on your GitHub profile, you can use Markdown and include icons using **shields.io** or **simple emoji/icons**. Here's a well-structured **README.md** snippet for your GitHub profile:  
-
 ---
 
 ## 🚀 Tech Stack  
