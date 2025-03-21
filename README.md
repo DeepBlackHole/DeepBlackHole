@@ -41,7 +41,7 @@ I’m currently working on **InfoSec, Reverse Engineering, Hardware Engineering*
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)  
 
 ### 🖥️ Operating Systems & Tools  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
@@ -56,6 +56,7 @@ I’m currently working on **InfoSec, Reverse Engineering, Hardware Engineering*
 [![GitHub Streak](https://github-readme-streak-stats-smoky-two-50.vercel.app?user=DeepBlackHole&theme=nightowl)](https://git.io/streak-stats)
 
 ## Support me:
+![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)  
 •[My patreon](https://www.patreon.com/c/DeepBlackHole/membership)
 
 
