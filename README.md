@@ -1,7 +1,4 @@
 # Hi there 👋
-> ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
 I’m currently working on **InfoSec, Reverse Engineering, Hardware Engineering**
 
 ---
