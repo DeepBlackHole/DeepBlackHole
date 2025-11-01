@@ -3,5 +3,4 @@
 ```zig
 n greeting(buf: []u8, yourname: []const u8) void { std.fmt.bufPrint(buf, "Nice to meet you {s}", .{yourname}); }
 ```
-> “Talk is cheap. Show me the code.”
-> ― Linus Torvalds
+
