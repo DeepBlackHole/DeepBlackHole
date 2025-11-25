@@ -6,4 +6,4 @@ n greeting(buf: []u8, yourname: []const u8) void { std.fmt.bufPrint(buf, "Nice t
 
 I write code mainly in:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepBlackHole&layout=compact&theme=transparent&text_color=9198a1&hide_title=true&langs_count=10&hide=html,css)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepBlackHole&theme=github" />
